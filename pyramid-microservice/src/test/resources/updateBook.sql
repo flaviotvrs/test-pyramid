@@ -1,0 +1,1 @@
+insert into book_entity (name, writter, price, id) values ('test update', 'test writter update', 100.00, 1003)
